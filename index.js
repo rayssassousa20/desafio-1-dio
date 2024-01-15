@@ -1,1 +1,2 @@
-console.log("ola")
+let name = "rayssa"
+console.log(nome)
